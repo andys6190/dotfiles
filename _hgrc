@@ -1,0 +1,19 @@
+[ui]
+username = Andy Siradas <asiradas@pcatg.com>
+
+[hostfingerprints]
+fogbugz.thepcagroup.com = fb:7b:53:da:7a:1d:3c:d4:ae:3e:33:fc:75:f1:cd:2a:39:f4:42:f2
+
+[extensions]
+color=
+shelve=
+pager=
+record=
+rebase=
+mq=
+largefiles=
+purge=
+checkfiles=/Users/asiradas/.mercurial/ml-hgext/checkfiles.py
+
+[checkfiles]
+tab_size=4

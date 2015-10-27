@@ -1,0 +1,6 @@
+[submodule "_oh-my-zsh"]
+    path = _oh-my-zsh
+    url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "_vim/bundle/Vundle.vim"]
+    path = _vim/bundle/Vundle.vim
+    url = https://github.com/gmarik/Vundle.vim.git
