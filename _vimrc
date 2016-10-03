@@ -18,13 +18,10 @@ Plugin 'tpope/vim-eunuch'
 Plugin 'vim-scripts/taglist.vim'
 Plugin 'tpope/vim-ragtag'
 Plugin 'altercation/vim-colors-solarized'
-Plugin 'andys6190/vim-definer'
-Plugin 'andys6190/vim-darkdrop'
 Plugin 'tpope/vim-abolish'
 Plugin 'fatih/vim-go'
 Plugin 'othree/javascript-libraries-syntax.vim'
 Plugin 'othree/yajs.vim'
-Plugin 'Valloric/YouCompleteMe'
 
 " Syntax highlighting plugins
 Plugin 'leafgarland/typescript-vim'
